@@ -1,0 +1,62 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ø“ç
+]	java:S125"<This block of commented-out lines of code should be removed.(®Ö∆Â˘ˇˇˇˇ8Âˆ‡±Ò1
+X	java:S125!"<This block of commented-out lines of code should be removed.(ŒÁ…8Ø®ê≤Ò1
+]	java:S125)"<This block of commented-out lines of code should be removed.(éŒ®≈˚ˇˇˇˇ8ëËí≤Ò1
+]	java:S1251"<This block of commented-out lines of code should be removed.(é˙Ùæˇˇˇˇˇ8‹≠î≤Ò1
+E	java:S106E"+Replace this use of System.out by a logger.(õÛ≥Í˝ˇˇˇˇ
+@	java:S106F"+Replace this use of System.out by a logger.(‰¸ﬂÌ
+E	java:S106K"+Replace this use of System.out by a logger.(µ›–ç˛ˇˇˇˇ
+E	java:S106L"+Replace this use of System.out by a logger.(«∞≥∆¯ˇˇˇˇ
+@	java:S106Q"+Replace this use of System.out by a logger.(§ÏõÀ
+E	java:S106R"+Replace this use of System.out by a logger.(ØËÛ˘¸ˇˇˇˇ
+@	java:S106W"+Replace this use of System.out by a logger.(ÅìëÛ
+E	java:S106X"+Replace this use of System.out by a logger.(ﬂæÓ—ˇˇˇˇˇ
+E	java:S106]"+Replace this use of System.out by a logger.(ã⁄˝ƒ˛ˇˇˇˇ
+@	java:S106_"+Replace this use of System.out by a logger.(¡ﬂá‹
+@	java:S106o"+Replace this use of System.out by a logger.(¥ŸâÌ
+E	java:S106q"+Replace this use of System.out by a logger.(∫¨Ôˇˇˇˇˇ
+A	java:S106Ä"+Replace this use of System.out by a logger.(ã«ÄÅ
+A	java:S106Ç"+Replace this use of System.out by a logger.(“æ«‰
+A	java:S106ï"+Replace this use of System.out by a logger.(’˘µÒ
+F	java:S106ó"+Replace this use of System.out by a logger.(Ê®§ö¯ˇˇˇˇ
+S
+java:S1144:"1Remove this unused private "createClient" method.(⁄∆“«˝ˇˇˇˇ8á˜‡±Ò1
+T
+java:S1144C"2Remove this unused private "getClientById" method.(˘’»˘˙ˇˇˇˇ8÷≤‰±Ò1
+S
+java:S1144I"8Remove this unused private "getBeautyMasterById" method.(î¶Ï†˝ˇˇˇˇ
+P
+java:S1144O":Remove this unused private "getAssistanceTypeById" method.(±´ñî
+L
+java:S1144U"6Remove this unused private "getAssistanceById" method.(ä ˝Î
+T
+java:S1144["2Remove this unused private "getAllClients" method.(ßñÑﬁ˙ˇˇˇˇ8ËË›±Ò1
+Y
+java:S1144c"7Remove this unused private "createBeautyMaster" method.(˜êÌÆ¯ˇˇˇˇ8®ê≤Ò1
+U
+java:S1144m"8Remove this unused private "getAllBeautyMasters" method.(ä≥Ãù8®ê≤Ò1
+[
+java:S1144u"9Remove this unused private "createAssistanceType" method.(òÉèá˘ˇˇˇˇ8ßËí≤Ò1
+W
+java:S1144~":Remove this unused private "getAllAssistanceTypes" method.(Ÿ…±¬8ßËí≤Ò1
+X
+java:S1144Ü"5Remove this unused private "createAssistance" method.(∑¢Ôñ˛ˇˇˇˇ8ˆ≠î≤Ò1
+S
+java:S1144ì"6Remove this unused private "getAllAssistances" method.(±¥•|8ˆ≠î≤Ò1
+T
+java:S1144õ"1Remove this unused private "updateClient" method.(ÀÊ≤äˇˇˇˇˇ8’Ï·±Ò1
+S
+java:S1144°"7Remove this unused private "updateBeautyMaster" method.(‹≠˜Å¸ˇˇˇˇ
+U
+java:S1144ß"9Remove this unused private "updateAssistanceType" method.(”àÂÂ¸ˇˇˇˇ
+Q
+java:S1144≠"5Remove this unused private "updateAssistance" method.(ùØπã˛ˇˇˇˇ
+T
+java:S1144≥"1Remove this unused private "deleteClient" method.(•ˆÕº˚ˇˇˇˇ8˜Ô£≤Ò1
+Z
+java:S1144∑"7Remove this unused private "deleteBeautyMaster" method.(£≤¢óˇˇˇˇˇ8ëˇ¢≤Ò1
+\
+java:S1144ª"9Remove this unused private "deleteAssistanceType" method.(ÄâÜ»ˇˇˇˇˇ8ó•£≤Ò1
+S
+java:S1144ø"5Remove this unused private "deleteAssistance" method.(«·◊ê8Î›°≤Ò1
